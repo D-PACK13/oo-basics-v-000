@@ -13,4 +13,5 @@ class Shoe
   def condition
     self.condition == "new"
   end
+  
 end
